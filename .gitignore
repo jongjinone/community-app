@@ -1,0 +1,10 @@
+server/config/dev.js
+server/node_modules/
+server/package-lock.json
+server/package.json
+client/node_modules/
+client/package-lock.json
+client/package.json
+node_modules/
+package-lock.json
+package.json

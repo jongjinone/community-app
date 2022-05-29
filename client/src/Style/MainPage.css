@@ -1,0 +1,11 @@
+.SearchAndArrange{
+    display: flex;
+    justify-content: center;
+    margin-top : 15px;
+}
+
+.SeeMore{
+    display: block;
+    margin : auto;
+    margin-bottom : 50px;
+}
